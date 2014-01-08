@@ -1,4 +1,6 @@
-Hello class.
+Hello class,
 
-I hope you are staying warm if you are in the US
-I hope you are staying cool if you are in Australia
+I hope you are staying warm if you are in the US.
+I hope you are staying cool if you are in Australia.
+
+I am in San Francisco. We have no seasons.
