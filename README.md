@@ -2,3 +2,8 @@
 
 * Name: Shelby
 * Profession: Co-op
+
+## Contact Info
+Email: shelbyb@iqmetrix.com
+
+
